@@ -1,0 +1,23 @@
+
+Y
+)src/main/java/org/lucas_nobrega/Main.java,b/e/be0c28ba43d3f8aee932d2cd69da8c71eae54706
+P
+ src/main/java/utils/MyImage.java,d/b/dbe2a6ca873dd3aa6388ef9a4cc80b31ab3b5338
+S
+#src/main/java/view/ImageViewer.java,b/e/becc80e8f5589d6fb08b17fe2acc84bb76388415
+b
+2src/main/java/contracts/utils/ManipulatePixel.java,6/3/63a380fa02363a393491f4a9a86d1ca435ffa960
+[
++src/main/java/utils/filters/RGBFilters.java,6/8/68c6f694c6528f170704f0fda522011a474ee83d
+\
+,src/main/java/utils/filters/GrayFilters.java,b/b/bb6187acfdf49a82da256c3e821b0cee22b28e95
+]
+-src/main/java/utils/filters/BinaryFilter.java,6/8/689e6ff010319b3b719d2440ae86afc36f0cdf99
+`
+0src/main/java/exceptions/ColorNameException.java,5/e/5e0a66780eb4c1f2cf5d5d346105a42181c0cf03
+[
++src/main/java/utils/filters/YIQFilters.java,1/f/1f38f981f163b94b32c62d0788ceb9a8e3f35bf0
+c
+3src/main/java/utils/filters/ManipulationFilter.java,8/e/8e2ae8fe2d2156716aa9383142e64297edc173df
+R
+"src/main/java/utils/LocalMath.java,c/c/cc925a0380e40a2dd6a343b4b2f3bfb7ce287baa
